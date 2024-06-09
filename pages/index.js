@@ -1,5 +1,5 @@
 function Home(){
-return <h1>Te amo, amor </h1>
+return <h1>dasdasdasddasaddanskjdnaskndzcxczczsakjdnaskjdnasdasjkndasjndasnasdndsakjndaskds </h1>
 }
 
 export default Home;
